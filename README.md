@@ -1,4 +1,5 @@
 Every script is largely in four stages, consisting of the same order as the corresponding flow of the paper. This file describes the functions of each script.
+Before start, enter conda environment named "cibersort". (# conda activate cibersort)
 
 1.	Clustering
 Consensus clustering script was written in R while K-means and Hierarchical clustering was scripted in Python. “TCGA_CIBERSORT.txt” was loaded at “1_ConsensusClustering.ipynb” and the clustering result is saved as “CC_result.txt”. The result file is preprocessed by “2_IC_best_score.ipynb” into “itemConsensus_BS.txt”. “3_Km_Hier_clustering.ipynb” performs K-means/hierarchical clustering and merges all clustering results including previous consensus clustering step with survival information from clinical profile(“TCGA_clinical.txt”). Merged data is saved as “clustered_sample.txt”. “4_survival_R.ipynb” shows K-M plot of each clustering method’s result and prints its chi-square and corresponding p-value. “5_survival_python.ipynb” prints/saves K-M plot of hierarchical clustering result, also focusing binary risk group as we stated in our paper (Figure 2).
