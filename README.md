@@ -12,3 +12,5 @@ This part contains Python scripts for the internal/external validation of our pa
 
 4.	DEG
 R based “1_limma.ipynb” provides DEG between trained/predicted risk group of TCGA and ICGC cohort via Limma package. The script loads each gene expression table and corresponding risk group information and performs DEG analysis between high/low risk group of them. The result is saved in toptable format as “TCGA(ICGC)_Low_vs_High_risk.txt”. The result is separated into up/downregulation and individually saved with |logFC|>1.2 and p-value<0.05 thresholds applied via Python based “2_threshold.ipynb”. The script also outputs common DEGs between two cohorts.
+
+You can run entire pipeline via pre-established docker image; https://hub.docker.com/r/asdoper0630/cibersort_final. It contains every required/resulted i/o data, pipeline scripts and required packages. For better effeciency, identical docker image can be built via uploaded "Dockerfile" and uploaded scripts can be run at the container from established image.
