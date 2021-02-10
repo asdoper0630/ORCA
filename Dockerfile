@@ -63,4 +63,4 @@ RUN conda install -c anaconda git
 
 # to run, type :
 # docker run -p 8888:8888 -itd cibersort /bin/bash
-# docker exec -it [image] /bin/bash
+# docker exec -it [container] /bin/bash
