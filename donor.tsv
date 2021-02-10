@@ -1,0 +1,41 @@
+icgc_donor_id	project_code	study_donor_involved_in	submitted_donor_id	donor_sex	donor_vital_status	disease_status_last_followup	donor_relapse_type	donor_age_at_diagnosis	donor_age_at_enrollment	donor_age_at_last_followup	donor_relapse_interval	donor_diagnosis_icd10	donor_tumour_staging_system_at_diagnosis	donor_tumour_stage_at_diagnosis	donor_tumour_stage_at_diagnosis_supplemental	donor_survival_time	donor_interval_of_last_followup	prior_malignancy	cancer_type_prior_malignancy	cancer_history_first_degree_relative
+DO50699	ORCA-IN		OSCC-GB_008501	male	alive	complete remission		45	45	46		C06.1	TNM	cT4aN0		213	213			
+DO50692	ORCA-IN		OSCC-GB_008101	male	alive	complete remission		52	52	53		C06.1	TNM	cT4aN0		480	480			
+DO50694	ORCA-IN		OSCC-GB_008201	female	alive	complete remission		48	48	49		C06.1	TNM	cT4aN1		445	445			
+DO50690	ORCA-IN		OSCC-GB_008001	male	alive	relapse	local recurrence	40	40	41	157	C06.1	TNM	cT4aN1		522	522			
+DO50688	ORCA-IN		OSCC-GB_007701	male	alive	complete remission		38	38	39		C06.1	TNM	cT4aN1		526	526			
+DO50682	ORCA-IN		OSCC-GB_007001	male	deceased	complete remission		37	37	38		C06.0	TNM	cT4aN1		257	257			
+DO50684	ORCA-IN		OSCC-GB_007301	male	deceased	progression	distant recurrence/metastasis	65	65	66	312	C06.0	TNM	cT4aN1		447	447			
+DO50685	ORCA-IN		OSCC-GB_007401	female	alive	complete remission		61	61	63		C06.0	TNM	cT4aN1		826	826			
+DO50672	ORCA-IN		OSCC-GB_006201	female	alive	relapse	local recurrence	34	34	35	351	C06.1	TNM	cT4aN2b		505	505			
+DO50660	ORCA-IN		OSCC-GB_005501	male	alive	complete remission		58	58	60		C06.0	TNM	cT4aN0		774	774			
+DO50662	ORCA-IN		OSCC-GB_005601	male	alive	complete remission		26	26	28		C06.1	TNM	cT4aN2a		758	758			
+DO50659	ORCA-IN		OSCC-GB_005401	male	deceased	progression	distant recurrence/metastasis	50	50	52	561	C06.1	TNM	cT4aN1		701	701			
+DO218554	ORCA-IN	PCAWG	OSCC-GB_012201	male	alive	complete remission		42	42	44		C06.0	TNM	T4aN2a			483	unknown		yes
+DO218697	ORCA-IN	PCAWG	OSCC-GB_011601	male	alive	complete remission		62	62	64		C06.1	TNM	T4N1			547	unknown		yes
+DO50732	ORCA-IN		OSCC-GB_010901	male	alive	complete remission		52	52	53		C06.1	TNM	cT4aN1		218	218			
+DO50733	ORCA-IN		OSCC-GB_011001	male	alive	progression	distant recurrence/metastasis	65	65	66	214	C06.0	TNM	cT4aN1		233	233			
+DO50734	ORCA-IN		OSCC-GB_011101	male	alive	relapse	local recurrence	50	50	51	168	C06.1	TNM	cT4aN2a		202	202			
+DO50731	ORCA-IN		OSCC-GB_010801	male	alive	complete remission		55	55	56		C06.0	TNM	cT4aN0		246	246			
+DO50721	ORCA-IN		OSCC-GB_010101	male	deceased	progression	distant recurrence/metastasis	42	42	43	270	C06.1	TNM	cT4aN1		338	338			
+DO50724	ORCA-IN		OSCC-GB_010301	male	alive	complete remission		62	62	63		C06.0	TNM	cT4aN2b		358	358			
+DO50727	ORCA-IN		OSCC-GB_010601	male	alive	complete remission		60	60	61		C06.0	TNM	cT3N1		300	300			
+DO50718	ORCA-IN		OSCC-GB_009901	female	deceased	relapse	local recurrence	35	35	35	55	C06.0	TNM	cT4aN2a		173	173			
+DO50717	ORCA-IN		OSCC-GB_009801	male	alive	complete remission		33	33	34		C06.0	TNM	cT3N1		429	429			
+DO50700	ORCA-IN		OSCC-GB_008601	male	alive	relapse	local recurrence	45	45	46	340	C06.0	TNM	cT4aN2b		457	457			
+DO50702	ORCA-IN		OSCC-GB_008801	male	alive	complete remission		44	44	45		C06.0	TNM	cT4aN1		448	448			
+DO50703	ORCA-IN		OSCC-GB_008901	female	alive	complete remission		54	54	55		C06.1	TNM	cT4aN1		389	389			
+DO50704	ORCA-IN		OSCC-GB_009001	male	deceased	complete remission		61	61	61		C06.0	TNM	cT4aN1		170	170			
+DO50705	ORCA-IN		OSCC-GB_009101	female	alive	complete remission		40	40	41		C06.0	TNM	cT4aN1		379	379			
+DO27959	ORCA-IN		OSCC-GB_004901	male	deceased	relapse	local recurrence	48	48	48	40	C06.0	TNM	cT4aN2a		116	116			
+DO27963	ORCA-IN		OSCC-GB_005101	male	deceased	complete remission		41	41	42	212	C06.1	TNM	cT4aN1		278	278			
+DO227603	ORCA-IN		OSCC-GB_014001	male	alive	complete remission		59	59	60		C06.1	TNM	T4aN2b			325	unknown		no
+DO227520	ORCA-IN		OSCC-GB_012901	male	alive	complete remission		45	45	48		C06.1	TNM	T3N0			1093	unknown		no
+DO227545	ORCA-IN		OSCC-GB_013301	male	alive	complete remission		34	34	36		C06.0	TNM	T4aN0			704	unknown		yes
+DO227557	ORCA-IN		OSCC-GB_013501	male	alive	complete remission		51	51	52		C06.0	TNM	T2N0			479	unknown		no
+DO227553	ORCA-IN		OSCC-GB_013401	male	alive	complete remission		50	50	51		C06.0	TNM	T4aN2b			469	unknown		no
+DO227577	ORCA-IN		OSCC-GB_013701	male	alive	complete remission		33	33	34		C06.0	TNM	T4aN0			410	unknown		no
+DO227579	ORCA-IN		OSCC-GB_013801	male	alive	complete remission		72	72	73		C06.0	TNM	T4aNI			281	unknown		no
+DO218012	ORCA-IN	PCAWG	OSCC-GB_011301	male	alive	complete remission		32	32	34		C06.0	TNM	T4aN0			630	unknown		no
+DO218180	ORCA-IN	PCAWG	OSCC-GB_012501	male	alive	complete remission		44	44	46		C06.0	TNM	T4aN2a			616	unknown		no
+DO218280	ORCA-IN	PCAWG	OSCC-GB_011901	male	alive	complete remission		51	51	52		C06.0	TNM	T4aN0			641	unknown		no
